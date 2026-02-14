@@ -70,8 +70,8 @@ Currently, I am the lead architect of **SentaurAI**, a cutting-edge safety ecosy
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DelcioCoder&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=555&icon_color=000" height="150" alt="GitHub Stats Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DelcioCoder&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=555" height="150" alt="Languages Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DelcioCoder&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=555&icon_color=000&cache_seconds=1800" height="150" alt="GitHub Stats Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DelcioCoder&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=555&cache_seconds=1800" height="150" alt="Languages Graph" />
 </div>
 
 <br />
